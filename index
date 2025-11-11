@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Portfolio di Roberta</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      background-color: #f7f7f7;
+      color: #333;
+      padding: 40px;
+    }
+    h1 {
+      color: #5a3dff;
+    }
+    iframe {
+      border-radius: 12px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Ciao, sono Roberta 👋</h1>
+  <p>Benvenuti nel mio portfolio! Qui trovate alcuni dei miei lavori e video.</p>
+
+  <h2>🎥 Guarda il mio video</h2>
+  <iframe width="560" height="315"
+          src="https://vm.tiktok.com/ZNdKUqmRg/"
+          frameborder="0"
+          allowfullscreen>
+  </iframe>
+
+  <p>Seguimi anche su Instagram o scopri di più su <a href="https://linktr.ee/tuolink" target="_blank">Linktree</a>.</p>
+</body>
+</html>
